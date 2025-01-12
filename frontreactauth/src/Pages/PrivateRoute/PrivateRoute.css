@@ -1,0 +1,15 @@
+.btn_privatepage{
+    padding: 10px;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: 0.3s ease-in-out;
+}
+
+.btn_privatepage:hover{
+    border: 1px solid black;
+    border-radius: 2px;
+}

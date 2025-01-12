@@ -1,0 +1,9 @@
+.mainpage{
+    text-align: center;
+}
+
+.mainpage a{
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
